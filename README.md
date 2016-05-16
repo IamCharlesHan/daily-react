@@ -3,3 +3,4 @@ Let’s take baby steps. If you want to learn something, build something, and ac
 * [D-1: Setup](https://medium.com/@charleshan/daily-react-d-1-setup-cec3213fc4aa)
 * [D-2: First Component](https://jsfiddle.net/omin/233twczx/)
 * [D-3: Properties](https://jsfiddle.net/omin/cgzz9zg5/)
+* [D-4: States](https://jsfiddle.net/omin/rvsrnL6b/)
